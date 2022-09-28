@@ -1,4 +1,4 @@
-# Functions Example
+# Functions Examples
 This folder contains examples for using the return in Python.
 
 ## Example 1:  Returning a value
